@@ -1,0 +1,7 @@
+Google Drive Video links of Health Hero project presented at VIVID 2019
+
+1) Android app demo video - https://drive.google.com/file/d/1M9f3yQ21ybzp584bA5eZorL0F1elnLjQ/view?usp=sharing
+
+2) AR app demo video - https://drive.google.com/file/d/1X8VeWR1CD1d585JvcxEYj83an74QudI7/view?usp=sharing
+
+3) AWS Lex Chatbot Demo video - https://drive.google.com/file/d/1rLk94eIYnNEpTi3_GuX_7EDakZL4nZ1T/view?usp=sharing
